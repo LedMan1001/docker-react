@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
-	    Hi there!
+	    I was changed on the feature branch
 	  </p>
           <a
             className="App-link"
@@ -22,7 +22,7 @@ class App extends Component {
           </a>
         </header>
 	<p>
-		Hi there!
+		I was changed on the feature branch
 	</p>    
       </div>
     );
